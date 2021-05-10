@@ -3,7 +3,7 @@
 
         <remote name="Realme-G70-Series"
                 fetch="https://github.com/Realme-G70-Series" />
-		<remote name="samar"
+	<remote name="samar"
                 fetch="https://github.com/SamarV-121" />
 
         <project path="device/realme/RMX2001" name="android_device_realme_RMX2001" remote="samar" revision="lineage-18.1" clone-depth="1" />
